@@ -1,0 +1,66 @@
+show me the time of the day:0
+i want to know about time:0
+tell me about the time:0
+whats the time now:0
+set a alarm:1
+put a alarm:1
+make a alarm:1
+search in wikipedia:2
+in wikipedia:2
+search about:2
+tell me about:2
+open youtube:3
+in youtube:3
+search in youtube:3
+find in youtube:3
+search in facebook:4
+whats the weather today:5
+weather of today:5
+tell me about todays weathe:5
+todays weather report:5
+todays weather forecast:5
+take a screenshot:6
+click a screenshot:6
+snap a screenshot:6
+send a whatsapp massage to:7
+send a whatsapp massage to my friend:7
+massage on whatsapp:7
+reply on whatsapp:7
+tell me today news:8
+i want to know news of:8
+open instragram:9
+search instragram:9
+open twittwer:10
+search twittwer:10
+increase volume:11
+turn up the volume:11
+decrease volume:12
+turn down the volume:12
+increase brightness:13
+turn up the brightness:13
+decrease brightness:14
+turn down the brightness:14
+be my interpreeter:15
+translate my language in :15
+stop now:16
+stop:16
+please stop now:16
+yes:17
+yes this is:17
+no:18
+no not that:18
+show details:19
+go back:20
+previous news:21
+show the screenshot:22
+show the taken picture:22
+play music:23
+play some music:23
+battery:24
+speak selected area:25
+speak selected statement:25
+close it:26
+close the terminal:26
+bye jarvis:27
+stop jarvis:27
+stop working jarvis:27
