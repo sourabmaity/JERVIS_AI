@@ -8,5 +8,4 @@ for p in matches:
     print(p['id'])
     print(p['srs'])
     print(p['status'])
-    print(p[''])
     break
